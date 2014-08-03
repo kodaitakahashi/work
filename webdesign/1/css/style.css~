@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body{
+    margin: 0;
+    padding: 0px;
+}
+
+#base{
+    width: 990px;
+    text-align: center;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+#header {
+    display: block;
+    height: 77px;
+    text-indent: -9999px;
+    overflow: hidden;
+    width: 950px;
+}
+
+
