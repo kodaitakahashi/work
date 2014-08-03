@@ -1,0 +1,9 @@
+
+#.gitgonore　を除外
+.gitignore
+
+#.DS_Store を除外
+.DS_Store
+ 
+/test
+/test
